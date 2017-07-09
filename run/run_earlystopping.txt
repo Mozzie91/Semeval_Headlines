@@ -1,0 +1,50 @@
+early_lstm_Metric 1 0.6878480574431101
+early_lstm_Metric 2 0.5636342695469007
+early_lstm_Metric 3 0.6451856125680696
+
+tweeked_lstm_Metric 1 0.7072454242800059          72
+tweeked_lstm_Metric 2 0.6111527991829772
+tweeked_lstm_Metric 3 0.6920034369028633
+
+Tweeked lstm cross val score 69.02691813483311
+Early lstm cross val score 64.51794205181747
+
+early_lstm_Metric 1 0.7345504577550598
+early_lstm_Metric 2 0.5808885919866557
+early_lstm_Metric 3 0.676537106860963
+
+**********************************************************
+*********************************************************
+
+SVR_Metric 1 0.6337282121405151
+SVR_Metric 2 0.5430163106711487
+SVR_Metric 3 0.6196208619956721
+
+SVR_ASPECT_Metric 1 0.6287084527413085
+SVR_ASPECT_Metric 2 0.523557969903338
+SVR_ASPECT_Metric 3 0.6131582530394668
+
+tweeked_lstm_Metric 1 0.7177973653332351
+tweeked_lstm_Metric 2 0.5807854411636366
+tweeked_lstm_Metric 3 0.6775488156871402
+
+
+early_lstm_Metric 1 0.7418027062990986
+early_lstm_Metric 2 0.6458597400332562
+early_lstm_Metric 3 0.7159822961915415
+
+
+Tweeked lstm cross val score 69.30261469465798
+Early lstm cross val score 68.22581807994477
+
+
+
+
+
+
+
+early_lstm_Metric 1 0.7386709737504543
+early_lstm_Metric 2 0.6155183665510117
+early_lstm_Metric 3 0.6918628439739951
+
+

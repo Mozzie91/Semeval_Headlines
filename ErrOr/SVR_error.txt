@@ -1,0 +1,356 @@
+{
+  1: [
+    {
+      'index': 386,
+      'Sentence': 'news feedftse 100 movers: lse surges as ice says mulling offer; ashtead and barclays tank',
+      'Company': 'london stock exchange group',
+      'True value': 0.84299999999999997,
+      'Pred value': -0.70300995810646749
+    },
+    {
+      'index': 323,
+      'Sentence': 'why i would put j sainsbury plc in my trolley before wm morrison supermarkets ...',
+      'Company': 'j sainsbury plc',
+      'True value': 0.76400000000000001,
+      'Pred value': -0.56897676590679958
+    },
+    {
+      'index': 257,
+      'Sentence': 'aviva posts forecast-beating 2015 operating profit of $3.8 bln',
+      'Company': 'aviva plc',
+      'True value': 0.94599999999999995,
+      'Pred value': -0.18819324340302274
+    },
+    {
+      'index': 158,
+      'Sentence': 'marketswolseley shares wilt 8.8% after full year results',
+      'Company': 'wolseley',
+      'True value': -0.78700000000000003,
+      'Pred value': 0.21516290274472896
+    },
+    {
+      'index': 284,
+      'Sentence': 'slump in weir leads ftse down from record high',
+      'Company': 'weir group',
+      'True value': -0.82699999999999996,
+      'Pred value': 0.16952406751730148
+    },
+    {
+      'index': 41,
+      'Sentence': 'market report: new morrisons chief executive buys another â£500000 worth of ...',
+      'Company': 'morrisons',
+      'True value': 0.82199999999999995,
+      'Pred value': -0.0048781968636069433
+    },
+    {
+      'index': 52,
+      'Sentence': "new york judge tosses saudi developer's $10 billion lawsuit vs barclays",
+      'Company': 'barclays',
+      'True value': 0.68600000000000005,
+      'Pred value': -0.10818896817411539
+    },
+    {
+      'index': 327,
+      'Sentence': 'old mutual shares soar on break-up report',
+      'Company': 'old mutual',
+      'True value': 0.91100000000000003,
+      'Pred value': 0.15098895196447121
+    },
+    {
+      'index': 339,
+      'Sentence': 'aberdeen sees more investors pull cash in the december quarter',
+      'Company': 'aberdeen asset management',
+      'True value': -0.52600000000000002,
+      'Pred value': 0.23182516735222808
+    },
+    {
+      'index': 249,
+      'Sentence': 'germany lags european share rally as volkswagen scandal widens',
+      'Company': 'volkswagen',
+      'True value': -0.80300000000000005,
+      'Pred value': -0.063213811148049734
+    },
+    {
+      'index': 427,
+      'Sentence': 'l&g strikes â£230m bulk annuity deal',
+      'Company': 'l&g',
+      'True value': 0.54000000000000004,
+      'Pred value': -0.19494026983761847
+    },
+    {
+      'index': 179,
+      'Sentence': 'banco bpi says deal for angolan unit has collapsed',
+      'Company': 'banco bpi',
+      'True value': -0.51100000000000001,
+      'Pred value': 0.19259639715520871
+    },
+    {
+      'index': 343,
+      'Sentence': 'tesco names deloitte as new auditor after accounting scandal',
+      'Company': 'tesco',
+      'True value': -0.45200000000000001,
+      'Pred value': 0.24997676115071871
+    },
+    {
+      'index': 464,
+      'Sentence': 'metals-london copper climbs as shorts cover on glencore cutbacks',
+      'Company': 'glencore',
+      'True value': -0.48499999999999999,
+      'Pred value': 0.21626018047116918
+    },
+    {
+      'index': 415,
+      'Sentence': 'bp reports biggest ever annual loss',
+      'Company': 'bp',
+      'True value': -0.98999999999999999,
+      'Pred value': -0.30347929419910369
+    },
+    {
+      'index': 59,
+      'Sentence': 'industry newsstrong end to a tough year for antofagasta',
+      'Company': 'antofagasta',
+      'True value': 0.77100000000000002,
+      'Pred value': 0.093226026808614179
+    },
+    {
+      'index': 387,
+      'Sentence': 'barclays shares dive as plan for ring-fencing costs extra â£1 billion',
+      'Company': 'barclays',
+      'True value': -0.69299999999999995,
+      'Pred value': -0.023991498504900649
+    },
+    {
+      'index': 320,
+      'Sentence': 'hsbc reaches $470 million accord over foreclosure abuses',
+      'Company': 'hsbc',
+      'True value': -0.83499999999999996,
+      'Pred value': -0.1685949237788773
+    },
+    {
+      'index': 142,
+      'Sentence': 'glencore shares in record crash as profit fears grow',
+      'Company': 'glencore',
+      'True value': -0.97099999999999997,
+      'Pred value': -0.30502778525293428
+    },
+    {
+      'index': 329,
+      'Sentence': "higher energy consumption fails to lift centrica's q1 results",
+      'Company': 'centrica plc',
+      'True value': -0.36699999999999999,
+      'Pred value': 0.28218654658474651
+    },
+    {
+      'index': 457,
+      'Sentence': 'schroders assets hit record in q1, buoyed by institutional inflows',
+      'Company': 'shoeders',
+      'True value': 0.67400000000000004,
+      'Pred value': 0.026367259689294667
+    },
+    {
+      'index': 442,
+      'Sentence': 'update: persimmon profit up strongly, outlook positive',
+      'Company': 'persimmon',
+      'True value': 0.93700000000000006,
+      'Pred value': 0.30694812185086529
+    },
+    {
+      'index': 422,
+      'Sentence': 'barclays libor verdicts provide much-needed victory for sfo',
+      'Company': 'barclays',
+      'True value': -0.63800000000000001,
+      'Pred value': -0.009617709426852257
+    },
+    {
+      'index': 445,
+      'Sentence': 'tesco share price tumbles after negative broker note',
+      'Company': 'tesco plc',
+      'True value': -0.77900000000000003,
+      'Pred value': -0.15080859502961966
+    },
+    {
+      'index': 233,
+      'Sentence': "profits leap at dixons carphone - and it isn't worried about brexit",
+      'Company': 'dixons carphone',
+      'True value': 0.38500000000000001,
+      'Pred value': -0.23083213117061727
+    },
+    {
+      'index': 456,
+      'Sentence': 'industry newsmorrisons unveils which stores will close as 900 jobs face the axe',
+      'Company': 'morrisons',
+      'True value': -0.73099999999999998,
+      'Pred value': -0.11801858861054597
+    },
+    {
+      'index': 18,
+      'Sentence': 'hargreaves lansdown posts record inflows in 4 mths to end-april',
+      'Company': 'hargreaves lansdown',
+      'True value': 0.41599999999999998,
+      'Pred value': -0.19626307279371213
+    },
+    {
+      'index': 262,
+      'Sentence': 'johnson matthey share price slumps as company posts full-year results',
+      'Company': 'johnson matthey',
+      'True value': -0.626,
+      'Pred value': -0.019563017155864899
+    },
+    {
+      'index': 121,
+      'Sentence': "britain's ftse falls back with ashtead, commodities under pressure",
+      'Company': 'ashtead',
+      'True value': -0.58999999999999997,
+      'Pred value': 0.015866541474173899
+    },
+    {
+      'index': 99,
+      'Sentence': 'ftse 100 flat; standard chartered leads risers',
+      'Company': 'standard chartered plc',
+      'True value': 0.58899999999999997,
+      'Pred value': -0.013557820274378952
+    },
+    {
+      'index': 429,
+      'Sentence': 'barclays drags ftse into red as compensation mounts',
+      'Company': 'barclays',
+      'True value': -0.625,
+      'Pred value': -0.022594045342002468
+    },
+    {
+      'index': 31,
+      'Sentence': 'companiesmorrison evicted from ftse 100 as worldpay joins',
+      'Company': 'morrisons',
+      'True value': -0.85199999999999998,
+      'Pred value': -0.25158828451039
+    },
+    {
+      'index': 381,
+      'Sentence': 'update 2-bhp billiton profit dives to 10-year low on commodities rout',
+      'Company': 'bhp billiton',
+      'True value': -0.754,
+      'Pred value': -0.15672349066632105
+    },
+    {
+      'index': 260,
+      'Sentence': 'shell eyes $700 million exit from gabon - sources',
+      'Company': 'shell',
+      'True value': 0.56200000000000006,
+      'Pred value': -0.027854505713577907
+    },
+    {
+      'index': 149,
+      'Sentence': 'us subpoenas volkswagen under bank fraud law in emissions probe: source',
+      'Company': 'volkswagen',
+      'True value': -0.83799999999999997,
+      'Pred value': -0.25075619198008003
+    },
+    {
+      'index': 312,
+      'Sentence': 'london stock exchange boosts ftse on new bid hopes',
+      'Company': 'london stock exchange group',
+      'True value': 0.74299999999999999,
+      'Pred value': 0.17301673914423571
+    },
+    {
+      'index': 166,
+      'Sentence': 'direct line raises 2015 guidance on combined ratio improvement',
+      'Company': 'direct line insurance group plc',
+      'True value': 0.746,
+      'Pred value': 0.17948274907480599
+    },
+    {
+      'index': 136,
+      'Sentence': 'property stocks slump after standard life freezes u.k. fund',
+      'Company': 'standard life',
+      'True value': -0.71799999999999997,
+      'Pred value': -0.15493677024562041
+    },
+    {
+      'index': 173,
+      'Sentence': 'judge: 22 bp fraud charges against lawyer duplicate others',
+      'Company': 'bp',
+      'True value': -0.67800000000000005,
+      'Pred value': -0.11560464660173563
+    },
+    {
+      'index': 4,
+      'Sentence': 'barclays faces another heavy forex fine',
+      'Company': 'barclays',
+      'True value': -0.83399999999999996,
+      'Pred value': -0.27896759677237254
+    },
+    {
+      'index': 56,
+      'Sentence': 'burberry ceo christopher bailey gets 75% pay cut after disappointing results',
+      'Company': 'burberry',
+      'True value': -0.59299999999999997,
+      'Pred value': -0.041644447336169406
+    },
+    {
+      'index': 140,
+      'Sentence': 'standard life elevates',
+      'Company': 'standard life',
+      'True value': 0.55500000000000005,
+      'Pred value': 0.0069479589351190835
+    },
+    {
+      'index': 90,
+      'Sentence': 'bp share price: group loses bid to limit clean water act fine',
+      'Company': 'bp',
+      'True value': -0.54700000000000004,
+      'Pred value': -0.00075791474799582429
+    },
+    {
+      'index': 419,
+      'Sentence': 'royal mail share price rallies amid positive broker comments',
+      'Company': 'royal mail',
+      'True value': 0.58999999999999997,
+      'Pred value': 0.047965386223269874
+    },
+    {
+      'index': 191,
+      'Sentence': 'rbs turns away savers in latest glitch',
+      'Company': 'royal bank of scotland group plc',
+      'True value': -0.64200000000000002,
+      'Pred value': -0.10064519085164918
+    },
+    {
+      'index': 220,
+      'Sentence': "update 2-astrazeneca's diabetes drug onglyza may increase death rate -fda",
+      'Company': 'astrazeneca',
+      'True value': -0.61299999999999999,
+      'Pred value': -0.081276486600428938
+    },
+    {
+      'index': 394,
+      'Sentence': 'companiesfresnillo shares jump 8% as silver price breaks $21',
+      'Company': 'fresnillo',
+      'True value': 0.874,
+      'Pred value': 0.34550089195015216
+    },
+    {
+      'index': 292,
+      'Sentence': 'tesco breaks its downward slide by cutting sales decline in half',
+      'Company': 'tesco plc',
+      'True value': 0.17199999999999999,
+      'Pred value': -0.35370503048851482
+    }
+  ],
+  2: [
+    {
+      'index': 245,
+      'Sentence': 'why astrazeneca plc & dixons carphone plc are red-hot growth stars!',
+      'Company': 'astrazeneca',
+      'True value': 0.93400000000000005,
+      'Pred value': 0.15576181556274679
+    },
+    {
+      'index': 437,
+      'Sentence': 'why astrazeneca plc & dixons carphone plc are red-hot growth stars!',
+      'Company': 'dixons carphone',
+      'True value': 0.76600000000000001,
+      'Pred value': 0.15576181556274679
+    }
+  ]
+}

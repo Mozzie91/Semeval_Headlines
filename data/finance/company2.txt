@@ -1,0 +1,491 @@
+Ashtead
+Shell
+Prudential
+GlaxoSmithKline
+Barclays
+Diageo
+Borealis Infrastructure
+Burberry Group plc
+Deutsche Boerse
+Tesco PLC
+AstraZeneca
+Shire
+Royal Mail
+Royal Mail
+ITV
+AdeS
+Barclays
+Morrisons
+Hargreaves Lansdown
+MOVANTIK
+EasyJet
+WPP
+Old Mutual
+Travis Perkins
+AstraZeneca
+Glencore
+Acerta
+Associated British Foods
+Pearson Jones
+Bunzl
+Goldman Sachs
+Morrisons
+Royal Mail
+Rolls-Royce
+HSBC
+Royal Bank of Scotland Group plc
+ZS Pharma
+HSBC
+Standard Life
+Legal & General Group Plc
+Glencore
+Morrisons
+Tesco PLC
+Petrofac
+Legal & General Group Plc
+BG Group
+Smiths Group
+Aspen
+Glencore
+Barclays
+EasyJet
+BP
+Barclays
+AB InBev
+Glencore
+Old Mutual
+Burberry
+SABMiller
+Shell
+Antofagasta
+CaixaBank
+AstraZeneca
+Standard Life
+Aer Lingus
+Pure Food
+BP
+BAT
+Kingfisher
+BHP Billiton
+Chime Communications
+BP
+Barclays
+JP Morgan
+BG Group
+Tesco PLC
+Petrofac
+ShelL
+Lloyds Banking Group PLC
+Barclays
+Acerta
+M&G Investments
+Barclays
+Kingfisher
+BP
+SABMiller
+Aviva plc
+AB InBev
+Standard Life
+Tesco PLC
+Morrisons
+BP
+Old Mutual
+Johnson Matthey
+Berkshire Hathaway Inc.
+Barclays
+Baxalta
+AB InBev
+Morrisons
+Persimmon
+Standard Chartered PLC
+Barclays
+GlaxoSmithKline
+Credit Suisse
+Aberdeen Asset Management
+Lloyds Banking Group PLC
+SABMiller
+Legal & General Group Plc
+Berkshire Hathaway Inc.
+Tesco PLC
+Royal Mail
+G4S
+SABMiller
+Cairn Homes
+Standard Chartered PLC
+Blinkbox
+BG Group
+AstraZeneca
+Shell
+Smiths Group
+Tesco PLC
+Barclays
+Ashtead
+Dixons Carphone
+San Miguel
+Lehman
+AB InBev
+Financial Times
+Berkshire Hathaway Inc.
+Tesco PLC
+CRH
+AB InBev
+Rio Tinto
+WWP
+Standard Chartered
+Kingfisher
+Lloyds Banking Group PLC
+Standard Life
+London Stock Exchange Group
+National Grid
+Glencore
+Standard Life
+Standard Chartered PLC
+Glencore
+Ocwen
+Shell
+ARM Holdings plc
+Tesco
+Glencore
+Royal Bank of Scotland Group plc
+Volkswagen
+AstraZeneca
+Shire
+ExxonMobil
+AXA
+Randgold Resources
+Tesco PLC
+Lloyds Banking Group PLC
+Tesco PLC
+Wolseley
+Juno
+Bloomberg
+Berkshire Hathaway Inc.
+Unilever
+AstraZeneca
+IBM
+BP
+Direct Line Insurance Group PLC
+SABMiller
+SABMiller
+Whitbread
+BG Group
+EasyJet
+Morrisons
+BP
+Lidl
+Prudential
+Pearson
+Standard Life
+BP
+Banco BPI
+Berkshire Hathaway Inc.
+AstraZeneca
+Tesco PLC
+ITV
+Royal Mail
+Shire
+National Grid
+Samarco
+Kinder Morgan
+Weir Group
+Tesco PLC
+Royal Bank of Scotland Group plc
+Tesco PLC
+Aviva plc
+Glencore
+Aviva
+Acerta
+Halfords
+HSBC
+ITV
+Wells Fargo
+BP
+Standard Chartered PLC
+Barclays
+AstraZeneca
+Amazon
+BT Group
+Royal Mail
+Tesco PLC
+Daiichi Sankyo
+Royal Bank of Scotland Group plc
+Deutsche Boerse
+HSBC
+Direct Line Insurance Group PLC
+AstraZeneca
+Standard Life
+Samarco
+Persimmon
+Royal Mail
+Glencore
+AstraZeneca
+Meggitt
+Royal Mail
+BP
+Springleaf
+Centrica PLC
+Morrisons
+Asahi
+Old Mutual
+Rio Tinto
+RBS
+Germanwings
+Glencore
+Dixons Carphone
+Bunzl
+Standard Chartered
+Glencore
+BHP Billiton
+Admiral Group plc
+Friends Life
+Royal Dutch Shell
+Shell
+AstraZeneca
+MillerCoors
+Morrisons
+AstraZeneca
+Johnson Matthey
+Prudential
+MillerCoors
+Volkswagen
+Standard Chartered PLC
+BG Group
+London Stock Exchange Group
+Whitbread
+Yorkshire
+ICE
+LloydsPharmacy
+Aviva plc
+Shire
+Royal Mail
+Shell
+Barclays
+Johnson Matthey
+AstraZeneca
+Britvic
+Sainsbury's
+BP
+Standard Chartered
+Morrisons
+Royal Bank of Scotland
+Persimmon
+Kingfisher
+Lloyds Banking Group PLC
+AstraZeneca
+Deutsche Boerse
+Sainsbury's
+AstraZeneca
+Baxalta
+Costa
+AstraZeneca
+Glencore
+Royal Mail
+Berkshire Hathaway
+ZS Pharma
+Weir Group
+AstraZeneca
+Tesco PLC
+Rio Tinto
+Cypress Semiconductor
+Barclays
+Comcast
+InterContinental Hotels Group
+Tesco PLC
+Intertek Group
+Shell
+Royal Bank of Scotland Group plc
+CR Laurence
+Direct Line Insurance Group PLC
+BAE Systems
+AstraZeneca
+Shell
+AB InBev
+WPP
+Royal Bank of Scotland Group plc
+Reed Elsevier
+L&G
+CaixaBank
+Barclays
+Legal & General Group Plc
+ITV
+ConAgra
+AB InBev
+London Stock Exchange Group
+Glencore
+Land Securities
+Glencore
+Glencore
+Krispy Kreme
+Amazon
+Lloyds Banking Group PLC
+HSBC
+Johnson Matthey
+AstraZeneca
+J Sainsbury plc
+Tesco PLC
+Daiichi Sankyo
+Barclays
+Old Mutual
+BP
+Centrica PLC
+Royal Bank of Scotland Group plc
+AstraZeneca
+WWP
+EasyJet
+Smiths Group
+Gazprom
+BHP Billiton
+Barclays
+SunRay
+Aberdeen Asset Management
+United Utilities
+BHP Billiton
+Standard Chartered PLC
+Tesco
+Tesco PLC
+Great Portland Estates plc
+Zurich Insurance
+RBS
+Shell
+Imperial Tobacco
+Deutsche Telekom
+Takeda
+ARM Holdings plc
+Aviva plc
+Glencore
+Intertain
+Dixons Carphone
+Barclays
+AstraZeneca
+Morrissons
+Barclays
+BHP
+Carnival Corporation
+Wilshire Bancorp
+Heinz
+HSBC
+Unilever
+Citigroup
+Tesco PLC
+Shell
+Sainsbury's
+Old Mutual
+Tesco PLC
+BP
+Barclays
+Barclays
+BP
+Tesco
+Tesco PLC
+BHP Billiton
+Shire
+BHP Billiton
+ITV
+Tesco
+SABMiller
+Royal Mail
+London Stock Exchange Group
+Barclays
+Barclays
+Tesco PLC
+Coutts
+Credit Suisse
+HSBC
+Glencore
+Fresnillo
+UBS
+Banco BPI
+Tesco PLC
+Tesco PLC
+Mid Wales
+Aviva plc
+Thomson
+Shell
+Barclays
+Blinkbox
+Centrica PLC
+Aggreko
+SABMiller
+G4S
+Royal Dutch Shell
+Imperial Tobacco
+Shell
+Sage
+AB InBev
+Tesco PLC
+BP
+Schroders
+London Stock Exchange Group
+Old Mutual
+Royal Mail
+Wells Fargo
+Easyjet
+Barclays
+AstraZeneca
+Barclays
+Tesco PLC
+BAE Systems
+L&G
+BP
+Barclays
+London Stock Exchange Group
+BP
+Lloyds Banking Group PLC
+PwC
+Tesco PLC
+SABMiller
+Shire
+Dixons Carphone
+BG Group
+Royal Bank of Scotland Group plc
+EasyJet
+Standard Life
+Persimmon
+Standard Life
+Shire
+Tesco PLC
+Tesco PLC
+Lloyds
+BP
+Glaxo
+British American Tobacco plc
+Meggitt
+AstraZeneca
+Tesco PLC
+Barclays
+Valeant Pharmaceuticals International
+Morrisons
+Shoeders
+Lloyds Banking Group PLC
+Tullow Oil
+Glencore
+WPP
+G4S
+Diageo
+Glencore
+AstraZeneca
+Crown Castle
+Persimmon
+Morrisons
+Barclays
+GlaxoSmithKline
+Petrofac
+Economist Group
+Glencore
+SABMiller
+Barclays
+AstraZeneca
+AstraZeneca
+Giraffe
+Royal Bank of Scotland Group plc
+Whitbread
+Actelion
+Ashtead
+Royal Bank of Scotland Group plc
+Premier Foods
+Barclays
+Barclays
+Barclays
+Glencore
+GSK
+AstraZeneca

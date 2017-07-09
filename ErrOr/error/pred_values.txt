@@ -1,0 +1,1966 @@
+[
+  {
+    'sentiment score': 0.47491411319086935,
+    'title': 'ashtead to buy back shares, full-year profit beats estimates'
+  },
+  {
+    'sentiment score': 0.2054326708373935,
+    'title': "eu regulators clear shell's takeover of bg group"
+  },
+  {
+    'sentiment score': -0.1799303384359994,
+    'title': "uk's ftse has worst day so far in 2015 as bg and prudential fall"
+  },
+  {
+    'sentiment score': 0.11526787147237504,
+    'title': 'glaxosmithkline acquires hiv assets'
+  },
+  {
+    'sentiment score': -0.2826636395148821,
+    'title': 'barclays faces another heavy forex fine'
+  },
+  {
+    'sentiment score': 0.40500842426057554,
+    'title': 'diageo shares surge on report of possible takeover by lemann'
+  },
+  {
+    'sentiment score': 0.20400192204170661,
+    'title': 'borealis infrastructure putting together new severn trent bid'
+  },
+  {
+    'sentiment score': -0.17057577140800839,
+    'title': 'ftse 100 falls as china devaluation hits burberry, mining stocks'
+  },
+  {
+    'sentiment score': -0.23959495529218211,
+    'title': 'london stock exchange â€“ deutsche boerse merger under threat from brexit'
+  },
+  {
+    'sentiment score': 0.052305688370090017,
+    'title': 'tesco abandons video-streaming ambitions in blinkbox sale'
+  },
+  {
+    'sentiment score': 0.26796697116448209,
+    'title': 'update 1-astrazeneca sells rare cancer drug to sanofi for up to $300 mln'
+  },
+  {
+    'sentiment score': 0.41770332285078599,
+    'title': 'homebuilders, shire gains spur ftse 100 to rally beyond record'
+  },
+  {
+    'sentiment score': 0.046923968380240599,
+    'title': 'companiesroyal mail adds a penny to stamp prices'
+  },
+  {
+    'sentiment score': -0.25679328325082251,
+    'title': 'royal mail shares fall as ofcom publishes discussion document'
+  },
+  {
+    'sentiment score': 0.15609101487062738,
+    'title': 'itv backs carl frampton to revive the glory days'
+  },
+  {
+    'sentiment score': 0.26899385454453573,
+    'title': 'the coca-cola company and coca-cola femsa to acquire ades soy-based beverage business from unilever'
+  },
+  {
+    'sentiment score': -0.21891252196993188,
+    'title': 'ex-barclays trader in libor case says boss hit him with bat'
+  },
+  {
+    'sentiment score': -0.42577824653376789,
+    'title': 'morrisons warns of long road to recovery after profit plunge'
+  },
+  {
+    'sentiment score': -0.20453687127493569,
+    'title': 'hargreaves lansdown posts record inflows in 4 mths to end-april'
+  },
+  {
+    'sentiment score': 0.21064175240136931,
+    'title': 'astrazeneca and daiichi sankyo to jointly commercialise movantik in the us'
+  },
+  {
+    'sentiment score': 0.0046886053772862927,
+    'title': 'easyjet passenger numbers and load factor improve in march'
+  },
+  {
+    'sentiment score': 0.28900039194423865,
+    'title': "wpp wins race for 'programmatic buying' agency essence digital"
+  },
+  {
+    'sentiment score': 0.18342281448422937,
+    'title': 'old mutual nears deal to sell us business'
+  },
+  {
+    'sentiment score': 0.61474943701969043,
+    'title': "uk builders' merchant travis perkins reports strong start to year"
+  },
+  {
+    'sentiment score': 0.31802791162845173,
+    'title': 'clinigen chosen by astrazeneca to manage access programme for next ...'
+  },
+  {
+    'sentiment score': 0.43327704595800109,
+    'title': 'companiesglencore shares hit 3-month high after refinancing key credit line'
+  },
+  {
+    'sentiment score': 0.29398753231575525,
+    'title': 'astrazeneca weighing up acerta bid to secure blood cancer drug'
+  },
+  {
+    'sentiment score': -0.14997248227535545,
+    'title': 'associated british foods raises guidance as sterling wilts'
+  },
+  {
+    'sentiment score': 0.056138098736635333,
+    'title': 'standard life share price: insurer buys advice firm pearson jones'
+  },
+  {
+    'sentiment score': 0.045314619980649243,
+    'title': 'bunzl lifts dividend again as acquisitions continue to boost profits'
+  },
+  {
+    'sentiment score': -0.12999035009169729,
+    'title': 'goldman sachs, barclays, hsbc downplay brexit threat'
+  },
+  {
+    'sentiment score': -0.44200076147872241,
+    'title': 'companiesmorrison evicted from ftse 100 as worldpay joins'
+  },
+  {
+    'sentiment score': -0.34335829540426416,
+    'title': 'royal mail "breached competition law" over delivery service changes, ofcom claims'
+  },
+  {
+    'sentiment score': -0.041396545193631257,
+    'title': 'rolls-royce holdings to reduce 600 employees in its marine business'
+  },
+  {
+    'sentiment score': -0.33840349382198209,
+    'title': 'uk stocks fall as hsbc overhaul fails to impress'
+  },
+  {
+    'sentiment score': 0.086165927626829938,
+    'title': 'rbs investment bank to return to profit after overhaul, ceo says'
+  },
+  {
+    'sentiment score': 0.5729959896705934,
+    'title': 'astrazeneca acquires zs pharma in $2.7 billion deal'
+  },
+  {
+    'sentiment score': -0.13527836288952286,
+    'title': "hsbc money laundering report's release delayed amid us appeal"
+  },
+  {
+    'sentiment score': 0.088771876706941061,
+    'title': 'keith skeoch to step up as david nish quits as chief executive of standard life'
+  },
+  {
+    'sentiment score': 0.1632034462789424,
+    'title': "legal & general's capital update outweighs profit rise"
+  },
+  {
+    'sentiment score': -0.14970843041692938,
+    'title': 'billionaire chief faces $210 million bill as glencore seeks cash'
+  },
+  {
+    'sentiment score': -0.018247351408252146,
+    'title': 'market report: new morrisons chief executive buys another â£500000 worth of ...'
+  },
+  {
+    'sentiment score': -0.11013493548092655,
+    'title': "buffett embarrassed by 'thumb-sucking' on exit of tesco stake"
+  },
+  {
+    'sentiment score': -0.11175008933063159,
+    'title': 'companiespetrofac earnings battered by north sea project losses'
+  },
+  {
+    'sentiment score': 0.36897965803404287,
+    'title': 'legal & general arm buys 50 pct stake in mediacityuk in manchester'
+  },
+  {
+    'sentiment score': -0.33499099716090719,
+    'title': "shell's $70 billion bg deal meets shareholder skepticism"
+  },
+  {
+    'sentiment score': 0.10426052536381654,
+    'title': 'update 1-engineering firm smiths group confirms ceo appointment'
+  },
+  {
+    'sentiment score': 0.38500499267023164,
+    'title': 'aspen to buy anaesthetics from astrazeneca for $520 million'
+  },
+  {
+    'sentiment score': -0.37886274862270652,
+    'title': 'glencore posts 5.7 pct fall in q4 copper output'
+  },
+  {
+    'sentiment score': -0.39314589611106626,
+    'title': 'update 2-three former barclays traders found guilty in libor rigging trial'
+  },
+  {
+    'sentiment score': 0.10402482539075272,
+    'title': 'easyjet expects resilient demand to withstand security fears'
+  },
+  {
+    'sentiment score': -0.43401522874461623,
+    'title': 'militants fire rockets at algerian bp/statoil gas plant, no casualties'
+  },
+  {
+    'sentiment score': -0.11215272346926383,
+    'title': "new york judge tosses saudi developer's $10 billion lawsuit vs barclays"
+  },
+  {
+    'sentiment score': -0.23218092765751011,
+    'title': "update 3-sabmiller rejects 'informal' offer from ab inbev as too low - bloomberg"
+  },
+  {
+    'sentiment score': 0.090996011940140523,
+    'title': 'update 1-lpc-glencore launches refinancing of us$8.45bn loan'
+  },
+  {
+    'sentiment score': 0.17497258715003911,
+    'title': 'standard life and old mutual join cii push to professionalism'
+  },
+  {
+    'sentiment score': 0.2146786556638719,
+    'title': 'burberry ceo christopher bailey gets 75% pay cut after disappointing results'
+  },
+  {
+    'sentiment score': -0.16268220907946088,
+    'title': "refile-rpt-beer mega merger faces jobs battle in sabmiller's birthplace"
+  },
+  {
+    'sentiment score': -0.058823908767459868,
+    'title': 'shell opens natural gas wells off irish coast'
+  },
+  {
+    'sentiment score': 0.11208658495837402,
+    'title': 'industry newsstrong end to a tough year for antofagasta'
+  },
+  {
+    'sentiment score': -0.081969046980773494,
+    'title': 'caixabank, dos santos agree on plan for bpi angola exposure'
+  },
+  {
+    'sentiment score': -0.061364273419074286,
+    'title': "astrazeneca's investment eats into profit"
+  },
+  {
+    'sentiment score': 0.056138098736635333,
+    'title': 'standard life share price: insurer buys advice firm pearson jones'
+  },
+  {
+    'sentiment score': 0.30500498288173206,
+    'title': 'update: easyjet passenger numbers, aer lingus traffic up in february'
+  },
+  {
+    'sentiment score': 0.12665448079106359,
+    'title': 'whitbread buys 49% stake in pure food chain'
+  },
+  {
+    'sentiment score': -0.38146074459804263,
+    'title': "how big was bp's $5.8 billion loss?"
+  },
+  {
+    'sentiment score': -0.14203147582320144,
+    'title': 'philip morris, bat sue over law taking branding off packs'
+  },
+  {
+    'sentiment score': 0.050090050994989699,
+    'title': 'companiesshine comes off kingfisher despite expansion plans'
+  },
+  {
+    'sentiment score': -0.15787286360514002,
+    'title': 'bhp billiton to face questions from shareholders'
+  },
+  {
+    'sentiment score': -0.06933273716336065,
+    'title': 'chime communications set to be acquired by wpp and providence'
+  },
+  {
+    'sentiment score': 0.13825166659388308,
+    'title': 'update 1-bp shareholders back more disclosure on climate change risks'
+  },
+  {
+    'sentiment score': 0.30002153372106888,
+    'title': 'dbs, julius baer emerge as potential bidders for barclays asia wealth unit ...'
+  },
+  {
+    'sentiment score': 0.0099894520753036099,
+    'title': 'barclays picks ex-jpmorgan exec staley as new ceo, to start dec 1'
+  },
+  {
+    'sentiment score': -0.10899450911691543,
+    'title': 'shell share price: standard life announce position against bg acquisition'
+  },
+  {
+    'sentiment score': 0.49475229627874345,
+    'title': 'update 2-tesco sells south korean unit to mbk-led group for $6.1 bln'
+  },
+  {
+    'sentiment score': 0.27925354328692786,
+    'title': "petrofac's order backlog rises to 13 billion pounds"
+  },
+  {
+    'sentiment score': -0.16661134698977811,
+    'title': "shell's job losses now equal facebook's entire payroll"
+  },
+  {
+    'sentiment score': 0.15235385787144667,
+    'title': '3 reasons why lloyds banking group plc is worthy of a place in your isa'
+  },
+  {
+    'sentiment score': -0.16747507002445289,
+    'title': 'press: barclays to cut more than 30000 jobs - the times'
+  },
+  {
+    'sentiment score': -0.49968036127499821,
+    'title': 'royal mail fined â£40m after french probe'
+  },
+  {
+    'sentiment score': -0.77202331002117797,
+    'title': 'aviva, m&g suspend property funds as investors panic'
+  },
+  {
+    'sentiment score': 0.83699695701693377,
+    'title': "priceline's stock jumps to new high for the year after barclays upgrade"
+  },
+  {
+    'sentiment score': -0.15370151154524772,
+    'title': 'companieskingfisher sliding despite promise of â£600m capital return'
+  },
+  {
+    'sentiment score': -0.55328652738714723,
+    'title': 'oil giant bp reports loss of $4.4 billion in 4th quarter of 2014'
+  },
+  {
+    'sentiment score': 0.0046320600292121643,
+    'title': 'companiesab inbev-sabmiller deadline extended for 2nd time'
+  },
+  {
+    'sentiment score': -0.089624275214851723,
+    'title': 'aviva closes three offices as 1500 job cuts begin'
+  },
+  {
+    'sentiment score': -0.1480074461691829,
+    'title': 'ab inbev attacks sabmiller bid rebuffal'
+  },
+  {
+    'sentiment score': 0.080618044795164615,
+    'title': 'standard life assets under administration up 5 pct to 312 bln pounds'
+  },
+  {
+    'sentiment score': 0.55836114711197571,
+    'title': 'rpt-update 2-tesco turnaround gathers pace under new ceo'
+  },
+  {
+    'sentiment score': 0.058242701626795568,
+    'title': 'uk supermarket group morrisons cuts fresh food prices'
+  },
+  {
+    'sentiment score': -0.0034716602178252592,
+    'title': 'bp share price: group loses bid to limit clean water act fine'
+  },
+  {
+    'sentiment score': 0.61266365023126002,
+    'title': 'rpt-old mutual q1 gross sales beat forecasts, up 18 pct'
+  },
+  {
+    'sentiment score': -0.066052482570250717,
+    'title': 'royal mail, johnson matthey lead ftse lower'
+  },
+  {
+    'sentiment score': 0.012989812093645671,
+    'title': 'should you follow berkshire hathaway into apple stock?'
+  },
+  {
+    'sentiment score': 0.26504256337287996,
+    'title': "bloomberg buys barclays' benchmarking business"
+  },
+  {
+    'sentiment score': 0.49699258736346469,
+    'title': 'marketsshire up 2.5% and baxalta up 6% on $32bn deal'
+  },
+  {
+    'sentiment score': 0.029686340016785006,
+    'title': 'ab inbev looks to win over sabmiller investors'
+  },
+  {
+    'sentiment score': 0.16429153200604588,
+    'title': "who will make the perfect match in morrisons' bizarre love triangle?"
+  },
+  {
+    'sentiment score': 0.58122677055423599,
+    'title': 'builder persimmon hails 6% rise in house sales'
+  },
+  {
+    'sentiment score': 0.047158515762361589,
+    'title': 'ftse 100 flat; standard chartered leads risers'
+  },
+  {
+    'sentiment score': 0.20140943160249933,
+    'title': 'che banca! ceo says barclays buy to lift profit from 2016-17'
+  },
+  {
+    'sentiment score': 0.1296846443567545,
+    'title': 'glaxosmithkline targets growth across units, scraps viiv ipo'
+  },
+  {
+    'sentiment score': -0.16288484367029446,
+    'title': 'new credit suisse boss faces stiff challenge in asia'
+  },
+  {
+    'sentiment score': 0.49592103908493329,
+    'title': 'aberdeen asset management profit rises'
+  },
+  {
+    'sentiment score': 0.09888067543817583,
+    'title': 'how lloyds banking group plc could double your money by 2018'
+  },
+  {
+    'sentiment score': 0.10900957090444043,
+    'title': "companiesab inbev signals it won't go hostile for sabmiller"
+  },
+  {
+    'sentiment score': 0.060388253107549389,
+    'title': 'legal & general group chairman john stewart to retire in 2016'
+  },
+  {
+    'sentiment score': -0.14598150676985722,
+    'title': 'berkshire holders hit buffett with hard questions'
+  },
+  {
+    'sentiment score': 0.057080497841325656,
+    'title': 'shell to build large-scale chemical plant in the us'
+  },
+  {
+    'sentiment score': -0.19232963545972748,
+    'title': "royal mail is improving â€“ but it's no red-letter day"
+  },
+  {
+    'sentiment score': 0.064851226326158515,
+    'title': 'g4s wins security services contracts in iraq and afghanistan'
+  },
+  {
+    'sentiment score': -0.33000599896438076,
+    'title': "update 5-sabmiller rejects ab inbev's $104 bln takeover approach"
+  },
+  {
+    'sentiment score': 0.13327482686725617,
+    'title': 'irish housebuilder cairn homes plans london listing'
+  },
+  {
+    'sentiment score': -0.17200254315113961,
+    'title': 'exclusive - stanchart axes senior bankers in energy m&a team: sources'
+  },
+  {
+    'sentiment score': 0.052305688370090017,
+    'title': 'tesco abandons video-streaming ambitions in blinkbox sale'
+  },
+  {
+    'sentiment score': -0.1799303384359994,
+    'title': "uk's ftse has worst day so far in 2015 as bg and prudential fall"
+  },
+  {
+    'sentiment score': 0.50599122452246892,
+    'title': 'eli lilly & co. (lly) has broken out to a new high on astrazeneca collaboration'
+  },
+  {
+    'sentiment score': -0.9899714007121293,
+    'title': 'shell to cut 6500 jobs as profit drops'
+  },
+  {
+    'sentiment score': 0.28526962465133004,
+    'title': 'companiessmiths group buys $710m us security system maker'
+  },
+  {
+    'sentiment score': -0.36030930848328341,
+    'title': 'press: tesco cuts 450 jobs as final homeplus stores closed - sky news'
+  },
+  {
+    'sentiment score': -0.15745927443053845,
+    'title': 'barclays gives top bosses, including new chief executive jes staley, â£8.7m in shares'
+  },
+  {
+    'sentiment score': 0.013481673904646708,
+    'title': "britain's ftse falls back with ashtead, commodities under pressure"
+  },
+  {
+    'sentiment score': 0.28500068805966239,
+    'title': "tesco closes in on new chairman with dixons carphone's john allan in the frame"
+  },
+  {
+    'sentiment score': 0.24999373601777886,
+    'title': "philippines' san miguel says to partner with kirin if it bids for sabmiller's ..."
+  },
+  {
+    'sentiment score': 0.24999194274039305,
+    'title': 'update: barclays expects gain after settling with lehman bros trustee'
+  },
+  {
+    'sentiment score': 0.18596035138565536,
+    'title': 'ab inbev ups offer for sabmiller as deadline looms'
+  },
+  {
+    'sentiment score': 0.25199826237771261,
+    'title': "japan's nikkei lands financial times in $1.3 billion deal"
+  },
+  {
+    'sentiment score': 0.39786436659620933,
+    'title': "update 2-warren buffett's berkshire hathaway nearing deal to buy precision ..."
+  },
+  {
+    'sentiment score': -0.042201873176853658,
+    'title': "britain's tesco starts land sell-off process"
+  },
+  {
+    'sentiment score': 0.027103710909603836,
+    'title': 'crh adds cr laurence to acquisitions tally for $1.3bn'
+  },
+  {
+    'sentiment score': 0.38196907782781114,
+    'title': 'eu regulators clear $100 billion-plus ab inbev, sabmiller deal'
+  },
+  {
+    'sentiment score': 0.49396764293727125,
+    'title': 'miners help ftse recover, rio tinto leads higher'
+  },
+  {
+    'sentiment score': 0.028508208422087563,
+    'title': "tesco's dunnhumby: is sir martin sorrell's wpp about to take a stake in the ..."
+  },
+  {
+    'sentiment score': 0.0099978342867870027,
+    'title': 'companiesdeutsche taps ex-stanchart executive for audit role'
+  },
+  {
+    'sentiment score': -0.20242032511773078,
+    'title': 'kingfisher share price: fy statutory pre-tax profit falls 20.5%'
+  },
+  {
+    'sentiment score': -0.050664195362179143,
+    'title': 'lloyds planning to cut 640 jobs to cut costs - sources'
+  },
+  {
+    'sentiment score': -0.13563051058334613,
+    'title': 'property stocks slump after standard life freezes u.k. fund'
+  },
+  {
+    'sentiment score': 0.082691446785000691,
+    'title': 'shareholder advisory groups back london stock exchange merger'
+  },
+  {
+    'sentiment score': 0.37469293154188693,
+    'title': "eu membership vital for uk's energy market - national grid ceo steve holliday"
+  },
+  {
+    'sentiment score': 0.31374326907083089,
+    'title': "glencore leads britain's ftse lower as china concerns weigh"
+  },
+  {
+    'sentiment score': 0.0097238379563944644,
+    'title': 'standard life elevates'
+  },
+  {
+    'sentiment score': -0.12066242102953829,
+    'title': '2nd update: standard chartered mulls capital raising as profit tumbles'
+  },
+  {
+    'sentiment score': -0.30881920631524318,
+    'title': 'glencore shares in record crash as profit fears grow'
+  },
+  {
+    'sentiment score': -0.0079879466447537427,
+    'title': 'ocwen reaches settlement with california regulator'
+  },
+  {
+    'sentiment score': -0.048874858115679543,
+    'title': 'shell ceo warns renewables shift could spell end if too swift'
+  },
+  {
+    'sentiment score': 0.052979347265624629,
+    'title': "are arm holdings plc, domino's pizza group plc and asos plc 3 must-have growth stocks?"
+  },
+  {
+    'sentiment score': 0.0044804243725509833,
+    'title': 'krispy kreme bring delicious doughnuts to maryhill tesco in glasgow'
+  },
+  {
+    'sentiment score': 0.011539431400176946,
+    'title': 'glencore director puts money back on the table'
+  },
+  {
+    'sentiment score': -0.16914283817645126,
+    'title': 'companieshoward davies appointment as rbs director delayed'
+  },
+  {
+    'sentiment score': -0.24460429386204924,
+    'title': 'us subpoenas volkswagen under bank fraud law in emissions probe: source'
+  },
+  {
+    'sentiment score': 0.3200327880688022,
+    'title': 'astrazeneca to pay inovio up to $700 million for cancer drug'
+  },
+  {
+    'sentiment score': 0.21145901904652747,
+    'title': "britain's ftse forges ahead as shire surges"
+  },
+  {
+    'sentiment score': -0.14531603663779225,
+    'title': 'supreme court upholds $236 million jury award against exxonmobil'
+  },
+  {
+    'sentiment score': 0.13797453803514029,
+    'title': 'update: cib, legal & general sell egyptian life joint venture to axa'
+  },
+  {
+    'sentiment score': -0.046511454154569198,
+    'title': 'randgold resources q4 profit decreases - quick facts'
+  },
+  {
+    'sentiment score': -0.18546110737585483,
+    'title': 'cost cuts, asset sales and writedowns in store for tesco'
+  },
+  {
+    'sentiment score': 0.075180479303499317,
+    'title': "refile-update 4-britain's lloyds to pay first dividend since rescue"
+  },
+  {
+    'sentiment score': -0.15122099259556943,
+    'title': 'tesco is the worst big supermarket for treating suppliers fairly, according to ...'
+  },
+  {
+    'sentiment score': 0.22661011946426424,
+    'title': 'marketswolseley shares wilt 8.8% after full year results'
+  },
+  {
+    'sentiment score': -0.0080212188740967673,
+    'title': 'astrazeneca, juno latest to collaborate on immuno-oncology drugs'
+  },
+  {
+    'sentiment score': 0.16414932257106885,
+    'title': 'barclays sells benchmark indices unit to bloomberg'
+  },
+  {
+    'sentiment score': 0.065067710130173845,
+    'title': "warren buffett defends berkshire hathaway's conglomerate structure"
+  },
+  {
+    'sentiment score': 0.43751903030193456,
+    'title': 'unilever profit rises despite sales slump in china'
+  },
+  {
+    'sentiment score': -0.058792279629507602,
+    'title': 'fda: data suggests astrazeneca drug may increase death rate'
+  },
+  {
+    'sentiment score': 0.2717337182611268,
+    'title': "warren buffett's berkshire adds to favorites ibm, wells fargo"
+  },
+  {
+    'sentiment score': -0.39071953527527192,
+    'title': "bp's fine for gulf of mexico spill capped by ruling"
+  },
+  {
+    'sentiment score': 0.18433945346863692,
+    'title': 'direct line raises 2015 guidance on combined ratio improvement'
+  },
+  {
+    'sentiment score': 0.029686340016785006,
+    'title': 'ab inbev looks to win over sabmiller investors'
+  },
+  {
+    'sentiment score': 0.22359099897408286,
+    'title': 'update 1-sabmiller leads s.african shares higher, rand firms'
+  },
+  {
+    'sentiment score': 0.035855797887948335,
+    'title': 'whitbread in apprenticeship drive'
+  },
+  {
+    'sentiment score': 0.25665266126029046,
+    'title': 'shell to buy bg group in $69.7 billion takeover'
+  },
+  {
+    'sentiment score': 0.14004272399885814,
+    'title': "easyjet to turn away 'have a go' fliers who arrive less than 30 minutes early"
+  },
+  {
+    'sentiment score': 0.017122926248885787,
+    'title': "david potts: there's trouble in store for the new boss of morrisons"
+  },
+  {
+    'sentiment score': -0.1190888716715633,
+    'title': 'judge: 22 bp fraud charges against lawyer duplicate others'
+  },
+  {
+    'sentiment score': 0.44599499532251496,
+    'title': "aldi and lidl expansion plans speed ahead as tesco, sainsbury's, morrisons ..."
+  },
+  {
+    'sentiment score': -0.037901955452176672,
+    'title': "prudential's departing ceo thiam earned 11.8 million pounds in 2014"
+  },
+  {
+    'sentiment score': -0.068310309723532026,
+    'title': 'la schools to drop pearson products under ambitious technology plan'
+  },
+  {
+    'sentiment score': -0.18864610421126812,
+    'title': 'standard life chief agrees â£600000 bonus cut'
+  },
+  {
+    'sentiment score': -0.3969418294760883,
+    'title': 'bp to slash 4000 jobs globally as oil prices drop'
+  },
+  {
+    'sentiment score': 0.18720595682497715,
+    'title': 'banco bpi says deal for angolan unit has collapsed'
+  },
+  {
+    'sentiment score': 0.067544960911182894,
+    'title': 'berkshire hathaway names kara raiguel to lead general re unit'
+  },
+  {
+    'sentiment score': 0.30699078772197042,
+    'title': 'astrazeneca share price: acerta deal pays off with orphan drug status'
+  },
+  {
+    'sentiment score': 0.17302705347991873,
+    'title': 'tesco share price: grocer and peers to step up branded products cull'
+  },
+  {
+    'sentiment score': -0.032087835122372538,
+    'title': 'papers- itv eyeing peppa pig'
+  },
+  {
+    'sentiment score': 0.01252872587863044,
+    'title': 'royal mail gets mixed bag from ofcom postal regulation report'
+  },
+  {
+    'sentiment score': 0.01699990972648293,
+    'title': 'shire dry eye drug fast-tracked by fda'
+  },
+  {
+    'sentiment score': 0.21018233518230109,
+    'title': 'national grid mulls sale of uk gas distribution business'
+  },
+  {
+    'sentiment score': -0.2750178606862676,
+    'title': 'bhp billiton share price: brazil to sue samarco for â£3.5bn'
+  },
+  {
+    'sentiment score': 0.17901484017706235,
+    'title': "update 3-buffett's berkshire raises oil bet with kinder morgan stake"
+  },
+  {
+    'sentiment score': -0.068418417005072868,
+    'title': 'companiesoil slump forces weir group into more job cuts'
+  },
+  {
+    'sentiment score': 0.08982176071000654,
+    'title': "tesco's deals with suppliers reflected a retailer with the wrong priorities"
+  },
+  {
+    'sentiment score': -0.10661410786993562,
+    'title': 'rbs turns away savers in latest glitch'
+  },
+  {
+    'sentiment score': -0.062703196882875595,
+    'title': 'tesco takes fight to discounters with price cuts on brands'
+  },
+  {
+    'sentiment score': -0.044357013329942643,
+    'title': "aviva investors admits redemptions 'too high' after â£500m outflow"
+  },
+  {
+    'sentiment score': 0.10089409265263805,
+    'title': 'metals-zinc surges 12 pct after glencore cuts output, fuelling metals rally'
+  },
+  {
+    'sentiment score': 0.19000154167928626,
+    'title': 'aviva expects 1500 jobs cuts from friends life deal'
+  },
+  {
+    'sentiment score': 0.36198123845595898,
+    'title': 'astrazeneca explores potential deal with acerta for cancer drug'
+  },
+  {
+    'sentiment score': -0.030934723362540901,
+    'title': 'halfords recruits jill mcdonald as ceo'
+  },
+  {
+    'sentiment score': 0.0029051128722302304,
+    'title': "ingenious, hsbc, ubs and coutts sued by 'tax avoidance' clients"
+  },
+  {
+    'sentiment score': -0.082392609398168573,
+    'title': 'companiesitv: brexit jitters weighing on advertising'
+  },
+  {
+    'sentiment score': 0.30404121635134568,
+    'title': 'berkshire seeks to boost its wells fargo stake above 10 percent'
+  },
+  {
+    'sentiment score': 0.4896334847484331,
+    'title': 'bp boosts ftse towards four and a half month high'
+  },
+  {
+    'sentiment score': -0.082377843573510745,
+    'title': 'standard chartered may see white knight takeover on painful recovery: clsa'
+  },
+  {
+    'sentiment score': -0.10631662258658976,
+    'title': 'barclays boss mcfarlane seen speeding asset sales, cost cuts'
+  },
+  {
+    'sentiment score': 0.31596201364725063,
+    'title': 'astrazeneca sells us drug rights to perrigo for $380 mln'
+  },
+  {
+    'sentiment score': 0.37900062541306784,
+    'title': "amazon's grocery deal with morrisons is only the beginning"
+  },
+  {
+    'sentiment score': 0.060949232846827517,
+    'title': "bt share price: watchdog bans telco's broadband adverts"
+  },
+  {
+    'sentiment score': 0.0076665559454906149,
+    'title': 'companiesroyal mail revenues drop despite boost in parcels'
+  },
+  {
+    'sentiment score': -0.10741931700043095,
+    'title': "tesco investors non-plussed by john allan as chairman - he's no archie norman ..."
+  },
+  {
+    'sentiment score': 0.21064175240136931,
+    'title': 'astrazeneca and daiichi sankyo to jointly commercialise movantik in the us'
+  },
+  {
+    'sentiment score': -0.10838566106269212,
+    'title': 'rbs job cuts draw attention to number that are still there'
+  },
+  {
+    'sentiment score': 0.34801516378177605,
+    'title': "merkel's government said to support deutsche boerse-lse merger"
+  },
+  {
+    'sentiment score': 0.040474989935085609,
+    'title': 'hsbc to sell bermuda trust and investment management business'
+  },
+  {
+    'sentiment score': 0.31403683416012262,
+    'title': 'are aviva plc, direct line insurance group plc and admiral group plc set to soar?'
+  },
+  {
+    'sentiment score': 0.35881101516816832,
+    'title': 'astrazeneca teams with daiichi sankyo to sell movantik in us'
+  },
+  {
+    'sentiment score': -0.059513269562369048,
+    'title': 'even superman skeoch will struggle with his dual role at standard life'
+  },
+  {
+    'sentiment score': 0.015666431627736878,
+    'title': 'samarco, brazil government come closer on $4.8 billion dam-disaster accord'
+  },
+  {
+    'sentiment score': -0.089152110669249676,
+    'title': 'uk housing market steadies after brexit dip, persimmon says'
+  },
+  {
+    'sentiment score': -0.073542550262905834,
+    'title': 'ofcom says will not impose new price controls on royal mail'
+  },
+  {
+    'sentiment score': -0.19134305915850655,
+    'title': 'update 3-glencore resumes slide despite investor meeting, john mack share purchase'
+  },
+  {
+    'sentiment score': -0.083018899414646088,
+    'title': "update 2-astrazeneca's diabetes drug onglyza may increase death rate -fda"
+  },
+  {
+    'sentiment score': -0.005630333067570218,
+    'title': 'update 1-meggitt reiterates annual outlook after tough 2014'
+  },
+  {
+    'sentiment score': -0.16136651701742766,
+    'title': "london stock exchange group appoints royal mail's donald brydon to replace ..."
+  },
+  {
+    'sentiment score': -0.39200102646439677,
+    'title': 'oil majors like royal dutch shell, chevron, bp fail to find reserves to counter ...'
+  },
+  {
+    'sentiment score': 0.27299496577564564,
+    'title': 'citigroup to sell onemain to springleaf for $4.25 billion'
+  },
+  {
+    'sentiment score': -0.2064298675871899,
+    'title': "centrica's shareholders protest over new chief's pay package"
+  },
+  {
+    'sentiment score': -0.09406747021145323,
+    'title': 'morrisons offers to rehire staff from under-threat my local chain'
+  },
+  {
+    'sentiment score': 0.22849525977840512,
+    'title': "japan's asahi to submit bid next week for sabmiller's grolsch and peroni - yomiuri"
+  },
+  {
+    'sentiment score': 0.23666527922249436,
+    'title': 'old mutual share price: cfo to leave company'
+  },
+  {
+    'sentiment score': 0.035928729942253976,
+    'title': "standout performer' js jacques picked to lead rio tinto"
+  },
+  {
+    'sentiment score': 0.038098783892134724,
+    'title': 'the government should soon sell its stake in rbs'
+  },
+  {
+    'sentiment score': 0.086013819170689079,
+    'title': 'germanwings disaster will not affect image of budget air travel - easyjet'
+  },
+  {
+    'sentiment score': 0.094537608379870006,
+    'title': 'glencore to sell copper mines in australia, chile'
+  },
+  {
+    'sentiment score': -0.21498484484837083,
+    'title': "profits leap at dixons carphone - and it isn't worried about brexit"
+  },
+  {
+    'sentiment score': 0.32575975987986694,
+    'title': "britain's ftse lags euro zone peers, bunzl results cap market"
+  },
+  {
+    'sentiment score': -0.15085847044155215,
+    'title': "standard chartered's outgoing chief peter sands paid $5.1 million in 2014"
+  },
+  {
+    'sentiment score': 0.0062020792413383921,
+    'title': 'glencore 2014 profit in line, takes $1.1 billion impairment charge on commodity ...'
+  },
+  {
+    'sentiment score': -0.12260044875993674,
+    'title': 'bhp, glencore head tumbling miners as commodity rout deepens'
+  },
+  {
+    'sentiment score': 0.31403683416012262,
+    'title': 'are aviva plc, direct line insurance group plc and admiral group plc set to soar?'
+  },
+  {
+    'sentiment score': 0.19900867235894878,
+    'title': 'aviva, friends life top forecasts ahead of 5.6 billion pound merger'
+  },
+  {
+    'sentiment score': 0.43897738114101342,
+    'title': 'royal dutch shell profit rises; dividend up 4%'
+  },
+  {
+    'sentiment score': -0.44101644122516881,
+    'title': 'shell plans to shed 2800 jobs after buying bg group'
+  },
+  {
+    'sentiment score': 0.21064175240136931,
+    'title': 'astrazeneca and daiichi sankyo to jointly commercialise movantik in the us'
+  },
+  {
+    'sentiment score': 0.013452706155192406,
+    'title': 'millercoors board names gavin hattersley interim ceo'
+  },
+  {
+    'sentiment score': -0.14514475342868244,
+    'title': 'companiesmorrisons ceo survives rebellion over pay'
+  },
+  {
+    'sentiment score': 0.14692520816712801,
+    'title': 'why astrazeneca plc & dixons carphone plc are red-hot growth stars!'
+  },
+  {
+    'sentiment score': 0.27599341531596994,
+    'title': 'johnson matthey sells research chemicals unit to thermo scientific'
+  },
+  {
+    'sentiment score': 0.37335879973888086,
+    'title': "britain's ftse gets lift from prudential results"
+  },
+  {
+    'sentiment score': 0.34148933089159877,
+    'title': 'millercoors delivers 2.9% underlying net income growth for 2014'
+  },
+  {
+    'sentiment score': -0.05505702063397265,
+    'title': 'germany lags european share rally as volkswagen scandal widens'
+  },
+  {
+    'sentiment score': -0.17754829433081615,
+    'title': 'standard chartered lags on capital worries'
+  },
+  {
+    'sentiment score': -0.25599010117315452,
+    'title': 'investors remain skeptical about shell-bg deal'
+  },
+  {
+    'sentiment score': -0.23959495529218211,
+    'title': 'london stock exchange â€“ deutsche boerse merger under threat from brexit'
+  },
+  {
+    'sentiment score': 0.12665448079106359,
+    'title': 'whitbread buys 49% stake in pure food chain'
+  },
+  {
+    'sentiment score': 0.28897726409682206,
+    'title': 'clydesdale and yorkshire moves closer to independence'
+  },
+  {
+    'sentiment score': 0.31800479361072237,
+    'title': 'ice said to start lining up financing for lse bidding war'
+  },
+  {
+    'sentiment score': 0.22400234232594679,
+    'title': 'sainsbury sells unit to lloydspharmacy'
+  },
+  {
+    'sentiment score': 0.01449637472002344,
+    'title': 'aviva posts forecast-beating 2015 operating profit of $3.8 bln'
+  },
+  {
+    'sentiment score': 0.25899611776218767,
+    'title': 'shire proposes $30 bln all-share tie-up with baxalta'
+  },
+  {
+    'sentiment score': -0.013468301490224235,
+    'title': 'update 1-britain raises $1.2 bln from royal mail stake sale'
+  },
+  {
+    'sentiment score': -0.032536276570877931,
+    'title': 'shell eyes $700 million exit from gabon - sources'
+  },
+  {
+    'sentiment score': -0.17611312365485976,
+    'title': "industry newsbarclays to 'cut investment bank staff by another 20%'"
+  },
+  {
+    'sentiment score': -0.014070077521682298,
+    'title': 'johnson matthey share price slumps as company posts full-year results'
+  },
+  {
+    'sentiment score': -0.02030603525933854,
+    'title': 'astrazeneca to invest $285 mln in swedish plant'
+  },
+  {
+    'sentiment score': 0.2453087620539558,
+    'title': 'britvic steps up overseas expansion with brazilian acquisition'
+  },
+  {
+    'sentiment score': -0.22256005744189877,
+    'title': 'companiessainsbury shares firm despite pre-tax loss'
+  },
+  {
+    'sentiment score': -0.060189216465523082,
+    'title': 'us judge upholds gas market manipulation charge against bp'
+  },
+  {
+    'sentiment score': -0.87678861998016833,
+    'title': "hsbc, standard chartered lead asia bank rout as u.k. votes 'out'"
+  },
+  {
+    'sentiment score': 0.052759178513207647,
+    'title': 'morrisons share price: ceo raises shareholding'
+  },
+  {
+    'sentiment score': 0.24001513318054121,
+    'title': 'royal bank of scotland becomes facebook customer'
+  },
+  {
+    'sentiment score': 0.31135477391668376,
+    'title': 'persimmon makes strong start, but notes pre-election uncertainty'
+  },
+  {
+    'sentiment score': 0.4991766550749771,
+    'title': "britain's ftse advances as investors cheer kingfisher results"
+  },
+  {
+    'sentiment score': 0.077441642454916262,
+    'title': 'uk to raise 9 billion pounds through lloyds share sales'
+  },
+  {
+    'sentiment score': 0.31777146020825431,
+    'title': "fda approves astrazeneca's iressa as lung cancer treatment"
+  },
+  {
+    'sentiment score': 0.39600539308440635,
+    'title': 'london stock exchange shareholders approve merger with deutsche bã¶rse'
+  },
+  {
+    'sentiment score': -0.22508956784094405,
+    'title': 'sainsbury sales slip again as price pressures take a toll'
+  },
+  {
+    'sentiment score': 0.36578425640557094,
+    'title': 'astrazeneca beats profit forecasts, helped by external deals'
+  },
+  {
+    'sentiment score': 0.065482978121202809,
+    'title': 'drugmaker shire bids $30 bln for baxter spin-off baxalta'
+  },
+  {
+    'sentiment score': -0.40926913640258294,
+    'title': 'industry newswhitbread sales sink in fourth quarter on costa slowdown'
+  },
+  {
+    'sentiment score': 0.15406806563828315,
+    'title': 'astrazeneca two-in-one drug succeeds in lung disease test'
+  },
+  {
+    'sentiment score': -0.45265560203921246,
+    'title': 'glencore slumps 30 percent as debt fears grow'
+  },
+  {
+    'sentiment score': -0.030415699528172812,
+    'title': 'update 1-britain to review royal mail regulation after rival exits market'
+  },
+  {
+    'sentiment score': 0.11213128658595739,
+    'title': 'warren buffett vows never to spin off berkshire hathaway subsidiaries'
+  },
+  {
+    'sentiment score': 0.54102020961462349,
+    'title': 'astrazeneca to buy zs pharma for $2.7 billion'
+  },
+  {
+    'sentiment score': 0.18792284620405286,
+    'title': 'slump in weir leads ftse down from record high'
+  },
+  {
+    'sentiment score': 0.10415825307942277,
+    'title': 'astrazeneca immune system drug wins orphan status in rare cancer'
+  },
+  {
+    'sentiment score': 0.10138284339313114,
+    'title': 'tesco set to put mobile unit for sale - ft'
+  },
+  {
+    'sentiment score': 0.025338655830918884,
+    'title': 'rio tinto ceo says iron ore market at equilibrium'
+  },
+  {
+    'sentiment score': 0.4509987300799167,
+    'title': 'update 1-cypress semiconductor offers to buy integrated silicon solution'
+  },
+  {
+    'sentiment score': 0.043333910954169524,
+    'title': 'barclays in talks with anacap to sell french consumer operations'
+  },
+  {
+    'sentiment score': 0.60102266839415908,
+    'title': "itv share price jumps on report of comcast's nbcuniversal bidding to takeover ..."
+  },
+  {
+    'sentiment score': -0.087990022781215066,
+    'title': 'intercontinental hotels denies reports of starwood merger talks'
+  },
+  {
+    'sentiment score': -0.35825269762224415,
+    'title': 'tesco breaks its downward slide by cutting sales decline in half'
+  },
+  {
+    'sentiment score': -0.31482727927840876,
+    'title': "intertek swings to â£347 mln loss on oil's slump"
+  },
+  {
+    'sentiment score': 0.20555734910994594,
+    'title': 'saudi aramco, shell plan to break up motiva, divide up assets'
+  },
+  {
+    'sentiment score': 0.030196804366741371,
+    'title': 'rbs set to close two branches in the region this august'
+  },
+  {
+    'sentiment score': 0.027103710909603836,
+    'title': 'crh adds cr laurence to acquisitions tally for $1.3bn'
+  },
+  {
+    'sentiment score': -0.11813193377988172,
+    'title': 'direct line expects claims of â£110-140 million from three storms'
+  },
+  {
+    'sentiment score': -0.014316122467051787,
+    'title': 'bae may sell part of us intelligence and security business'
+  },
+  {
+    'sentiment score': 0.017192069081026017,
+    'title': 'astrazeneca r&d boss briggs morrison leaves to head private drugmaker'
+  },
+  {
+    'sentiment score': -0.55400751196906228,
+    'title': 'oil giant shell to cut around 2800 jobs amid bg takeover'
+  },
+  {
+    'sentiment score': 0.21698950802185463,
+    'title': "asahi could be about to snap up more of sabmiller's beers ahead of ab inbev sale"
+  },
+  {
+    'sentiment score': -0.12308015416915079,
+    'title': 'wpp shareholders should oppose company on pay at agm - pirc'
+  },
+  {
+    'sentiment score': -0.67297824912442517,
+    'title': 'warning as rbs slumps to â£446m loss'
+  },
+  {
+    'sentiment score': -0.44823793337872408,
+    'title': 'reed elsevier share price slides on underwhelming full-year results'
+  },
+  {
+    'sentiment score': 0.042160851331320595,
+    'title': "l&g completes uk's largest medically underwritten bulk pension risk deal"
+  },
+  {
+    'sentiment score': 0.21101218245252842,
+    'title': 'bpi says caixabank, isabel dos santos reach agreement over angola exposure'
+  },
+  {
+    'sentiment score': 0.19130146280534555,
+    'title': 'barclays sees fed rate hike in early 2016'
+  },
+  {
+    'sentiment score': 0.067788366183094889,
+    'title': 'legal & general eyes company deals as individual annuities wither'
+  },
+  {
+    'sentiment score': -0.20962485963177427,
+    'title': "companiesitv's audience numbers fall to lowest in 15 years"
+  },
+  {
+    'sentiment score': 0.096217439409077343,
+    'title': 'conagra names former hillshire farms ceo connolly to top post'
+  },
+  {
+    'sentiment score': 0.18699637405924199,
+    'title': 'ab inbev offers sabmiller $3 billion breakup fee'
+  },
+  {
+    'sentiment score': 0.17639357759126986,
+    'title': 'london stock exchange boosts ftse on new bid hopes'
+  },
+  {
+    'sentiment score': 0.066506733680586488,
+    'title': 'glencore has a mogul in denial'
+  },
+  {
+    'sentiment score': 0.37799948484840334,
+    'title': 'land securities share price: group reveals strong full-year results'
+  },
+  {
+    'sentiment score': -0.14698933365628042,
+    'title': 'ftse 100 drops 2.5 pct on glencore, metals price fears'
+  },
+  {
+    'sentiment score': -0.4844557232732401,
+    'title': 'copper market may get a 2003-style supply shock from glencore closures'
+  },
+  {
+    'sentiment score': 0.0044804243725509833,
+    'title': 'krispy kreme bring delicious doughnuts to maryhill tesco in glasgow'
+  },
+  {
+    'sentiment score': 0.069783577789124598,
+    'title': "jim armitage: amazon is primed to deliver pain to grocery's old guard"
+  },
+  {
+    'sentiment score': -0.0039766631363418355,
+    'title': '3p ppi payout for lloyds customer'
+  },
+  {
+    'sentiment score': -0.17054512027978405,
+    'title': 'hsbc reaches $470 million accord over foreclosure abuses'
+  },
+  {
+    'sentiment score': -0.070793350751580927,
+    'title': 'johnson matthey raises prospect of investor payout'
+  },
+  {
+    'sentiment score': 0.47800260250559773,
+    'title': 'update 1-astrazeneca buys zs pharma for $2.7 billion, pips actelion'
+  },
+  {
+    'sentiment score': -0.56898865901020579,
+    'title': 'why i would put j sainsbury plc in my trolley before wm morrison supermarkets ...'
+  },
+  {
+    'sentiment score': -0.19627843134470283,
+    'title': 'tesco store closures herald broader property overhaul'
+  },
+  {
+    'sentiment score': 0.35881101516816832,
+    'title': 'astrazeneca teams with daiichi sankyo to sell movantik in us'
+  },
+  {
+    'sentiment score': -0.21032314561212778,
+    'title': "next barclays investment banking chief may signal staley's strategy"
+  },
+  {
+    'sentiment score': 0.15259810016766381,
+    'title': 'old mutual shares soar on break-up report'
+  },
+  {
+    'sentiment score': -0.23198988961717074,
+    'title': 'bp, statoil, to withdraw staff from algeria following rocket attack'
+  },
+  {
+    'sentiment score': 0.40538470589983433,
+    'title': "higher energy consumption fails to lift centrica's q1 results"
+  },
+  {
+    'sentiment score': -0.27689269628956398,
+    'title': 's&p downgrades barclays and rbs on government bailout fears'
+  },
+  {
+    'sentiment score': 0.17991141420086049,
+    'title': "astrazeneca share price: crohn's disease drug divested for $215m"
+  },
+  {
+    'sentiment score': -0.054391146794417561,
+    'title': 'wpp chief projects tough ad market as customers avoid risks'
+  },
+  {
+    'sentiment score': -0.028169420347770414,
+    'title': 'easyjet seeks eu operating certificate as brexit workaround'
+  },
+  {
+    'sentiment score': 0.013820833308499845,
+    'title': 'companiessmiths group profits plumped by security scanners'
+  },
+  {
+    'sentiment score': 0.17400264191324985,
+    'title': 'centrica extends gas deals with gazprom, statoil'
+  },
+  {
+    'sentiment score': -0.51244105050579158,
+    'title': 'european stocks hover near 3-week low, dialog and bhp slump'
+  },
+  {
+    'sentiment score': 0.109742002691421,
+    'title': "barclays share price: chairman 'perfectly comfortable' with ring-fencing rules"
+  },
+  {
+    'sentiment score': -0.25811843899442244,
+    'title': 'sunray cuts jobs as new hampshire reaches cap on solar incentive'
+  },
+  {
+    'sentiment score': 0.25942951233256561,
+    'title': 'aberdeen sees more investors pull cash in the december quarter'
+  },
+  {
+    'sentiment score': 0.039769409742784159,
+    'title': 'companiesunited utilities h1 profits just miss expectations'
+  },
+  {
+    'sentiment score': 0.19898952267020939,
+    'title': "why i'd buy arm holdings plc and bhp billiton plc today"
+  },
+  {
+    'sentiment score': -0.1357939622843439,
+    'title': 'new management bring rights issue risk at standard charteredâ€\x9d'
+  },
+  {
+    'sentiment score': 0.24999738785855535,
+    'title': 'tesco names deloitte as new auditor after accounting scandal'
+  },
+  {
+    'sentiment score': 0.32645071281963201,
+    'title': 'tesco returns to profit, but city demands more'
+  },
+  {
+    'sentiment score': 0.3040165561552175,
+    'title': "should you buy associated british foods plc, great portland estates plc and dunelm group plc following today's news?"
+  },
+  {
+    'sentiment score': 0.36598502301453467,
+    'title': 'zurich insurance considering offer for uk rival rsa insurance'
+  },
+  {
+    'sentiment score': 0.34304839892582306,
+    'title': 'abn amro: bank that brought down rbs poised for return to the market'
+  },
+  {
+    'sentiment score': -0.31900258318150926,
+    'title': "shell's arctic return faces hurdle at seattle port"
+  },
+  {
+    'sentiment score': -0.0067959313681190785,
+    'title': 'imperial tobacco launches caffeinated mouth strips'
+  },
+  {
+    'sentiment score': 0.095153111609265484,
+    'title': 'deutsche telekom to spend $27 billion on network in germany'
+  },
+  {
+    'sentiment score': 0.27082309147916311,
+    'title': 'update 1-astrazeneca boosts respiratory unit with $575 mln takeda deal'
+  },
+  {
+    'sentiment score': 0.092611323224699948,
+    'title': 'arm slammed by handset sales outlook'
+  },
+  {
+    'sentiment score': 0.31529468808298949,
+    'title': 'insurers: admiral blows hot and cold but aviva soars pre-friends life merger'
+  },
+  {
+    'sentiment score': 0.086563238540856791,
+    'title': 'glencore taps investors for $2.5bn'
+  },
+  {
+    'sentiment score': 0.16133607488809557,
+    'title': 'intertain considers london listing'
+  },
+  {
+    'sentiment score': 0.16886286853386004,
+    'title': 'companiesdixons carphone to close 134 uk stores as sales jump'
+  },
+  {
+    'sentiment score': 0.53069808876006486,
+    'title': "refile-hikma and barclays help britain's ftse to climb higher"
+  },
+  {
+    'sentiment score': 0.038041622633282757,
+    'title': 'astrazeneca lupus drug cuts disease activity in mid-stage trial'
+  },
+  {
+    'sentiment score': -0.29218132244070771,
+    'title': 'morrisons reveals the 11 supermarkets facing closure at the expense of 900 jobs'
+  },
+  {
+    'sentiment score': -0.27689269628956398,
+    'title': 's&p downgrades barclays and rbs on government bailout fears'
+  },
+  {
+    'sentiment score': 0.053683491667140273,
+    'title': 'bhp names chairman, board members to oversee samarco disaster'
+  },
+  {
+    'sentiment score': 0.012347729044216844,
+    'title': 'carnival corporation launches shipboard mobile gaming solution for mid ...'
+  },
+  {
+    'sentiment score': 0.48301385178010642,
+    'title': 'bbcn bancorp to buy wilshire bancorp in $1 bln deal'
+  },
+  {
+    'sentiment score': 0.20402028287382365,
+    'title': 'how kraft-heinz merger came together in speedy 10 weeks'
+  },
+  {
+    'sentiment score': 0.097133756346179545,
+    'title': 'hsbc selling unprofitable brazil unit to bradesco for $5.2 billion'
+  },
+  {
+    'sentiment score': -0.037819019390156486,
+    'title': 'volumes up and turnover down at unilever'
+  },
+  {
+    'sentiment score': 0.27299496577564564,
+    'title': 'citigroup to sell onemain to springleaf for $4.25 billion'
+  },
+  {
+    'sentiment score': -0.24899677577685647,
+    'title': "sainsbury's, asda, tesco and morrisons will all cut petrol prices as oil falls ..."
+  },
+  {
+    'sentiment score': -0.17014599660728497,
+    'title': 'exclusive - shell ceo warns brexit could slow $30 billion asset sale plan'
+  },
+  {
+    'sentiment score': 0.17378126043341852,
+    'title': "sainsbury's share price: supermarket pushes ahead with netto roll-out"
+  },
+  {
+    'sentiment score': 0.32434625638903752,
+    'title': 'gross wins back $272 million fund as old mutual keeps faith'
+  },
+  {
+    'sentiment score': 0.40572503364810375,
+    'title': "britain's ftse outperforms europe, royal mail and tesco rise"
+  },
+  {
+    'sentiment score': 0.092351458016894414,
+    'title': "bob dudley's 20% pay rise at bp is a bit rich"
+  },
+  {
+    'sentiment score': -0.38317018333581082,
+    'title': 'three former barclays traders found guilty in libor rigging trial'
+  },
+  {
+    'sentiment score': -0.34159335033206534,
+    'title': '3 ex-barclays traders convicted over libor rigging'
+  },
+  {
+    'sentiment score': -0.10377765629850706,
+    'title': 'climate qualms mean oil will never be used up - bp'
+  },
+  {
+    'sentiment score': 0.028508208422087563,
+    'title': "tesco's dunnhumby: is sir martin sorrell's wpp about to take a stake in the ..."
+  },
+  {
+    'sentiment score': 0.18852461506904664,
+    'title': "tesco plc's recovery continues with a â£250m cash infusion"
+  },
+  {
+    'sentiment score': -0.6550010261397845,
+    'title': 'miners meltdown as bhp to rio tinto sink in commodities rout'
+  },
+  {
+    'sentiment score': 0.26401366641058782,
+    'title': 'shire sees baxalta deal closing as expected after new rules'
+  },
+  {
+    'sentiment score': -0.15753996401125464,
+    'title': 'update 2-bhp billiton profit dives to 10-year low on commodities rout'
+  },
+  {
+    'sentiment score': 0.45198522689773019,
+    'title': "itv share price: group mulls takeover of canada's entertainment one"
+  },
+  {
+    'sentiment score': 0.03417316289623383,
+    'title': 'city shock as john allan beats archie norman to tesco chair'
+  },
+  {
+    'sentiment score': 0.15925593167424704,
+    'title': 'update 1-sabmiller 2nd-quarter underlying sales rise, forex impacts margins'
+  },
+  {
+    'sentiment score': 0.40572503364810375,
+    'title': "britain's ftse outperforms europe, royal mail and tesco rise"
+  },
+  {
+    'sentiment score': -0.70300108507774184,
+    'title': 'news feedftse 100 movers: lse surges as ice says mulling offer; ashtead and barclays tank'
+  },
+  {
+    'sentiment score': -0.025408888567622762,
+    'title': 'barclays shares dive as plan for ring-fencing costs extra â£1 billion'
+  },
+  {
+    'sentiment score': 0.24999194274039305,
+    'title': 'update: barclays expects gain after settling with lehman bros trustee'
+  },
+  {
+    'sentiment score': 0.079508274610391227,
+    'title': 'tesco shareholders back itv head for chairman'
+  },
+  {
+    'sentiment score': 0.0029051128722302304,
+    'title': "ingenious, hsbc, ubs and coutts sued by 'tax avoidance' clients"
+  },
+  {
+    'sentiment score': -0.04100024949946518,
+    'title': "credit suisse poaches prudential's thiam for asian push"
+  },
+  {
+    'sentiment score': -0.12696572366772885,
+    'title': 'hsbc share price in focus as executives receive call to appear before mps'
+  },
+  {
+    'sentiment score': -0.45779261684814965,
+    'title': 'glencore posts 3 pct fall in h1 copper output, cuts capex'
+  },
+  {
+    'sentiment score': 0.35425705343559966,
+    'title': 'companiesfresnillo shares jump 8% as silver price breaks $21'
+  },
+  {
+    'sentiment score': 0.0029051128722302304,
+    'title': "ingenious, hsbc, ubs and coutts sued by 'tax avoidance' clients"
+  },
+  {
+    'sentiment score': 0.19500025253117864,
+    'title': "spain's caixabank launches new takeover bid for banco bpi"
+  },
+  {
+    'sentiment score': 0.12739616980109209,
+    'title': 'companiestesco off to a bad start over xmas â€“ kantar'
+  },
+  {
+    'sentiment score': -0.1480100940956858,
+    'title': "can christmas save sainsbury's plc and tesco plc?"
+  },
+  {
+    'sentiment score': -0.41000296762226135,
+    'title': 'shropshire and mid wales trains to be hit again in new strike by arriva drivers'
+  },
+  {
+    'sentiment score': -0.080023278043000176,
+    'title': 'aviva shuts friends life head office in rapid integration move'
+  },
+  {
+    'sentiment score': -0.59000585511129866,
+    'title': 'sharm el-sheikh travel disruption: british airways, easyjet, thomson and ...'
+  },
+  {
+    'sentiment score': -0.14063669681681043,
+    'title': "speed of shell's swoop for bg unusual"
+  },
+  {
+    'sentiment score': -0.26766592814964368,
+    'title': 'former barclays banker pleaded guilty to libor-rigging offence'
+  },
+  {
+    'sentiment score': 0.14597831763621921,
+    'title': 'tesco sells blinkbox and broadband service to talktalk'
+  },
+  {
+    'sentiment score': 0.40300831925645836,
+    'title': 'balfour beatty plc set to reinstate dividend (and rival national grid plc and centrica plc once more?)'
+  },
+  {
+    'sentiment score': 0.15983059848462669,
+    'title': "industry newsaggreko buys canada's ics for â£18m"
+  },
+  {
+    'sentiment score': 0.027398603583234,
+    'title': 'sabmiller revenue hit by weaker em currencies'
+  },
+  {
+    'sentiment score': -0.40856291757686536,
+    'title': 'g4s slides on balance sheet worries'
+  },
+  {
+    'sentiment score': -0.089272646747005968,
+    'title': "should you buy royal dutch shell plc after its q4 'update'?"
+  },
+  {
+    'sentiment score': 0.11575339748131136,
+    'title': 'imperial tobacco adds quarterly dividends after profit rose'
+  },
+  {
+    'sentiment score': -0.026036159774190073,
+    'title': 'companiesshell sells stake in showa shell sekiyu for $1.4bn'
+  },
+  {
+    'sentiment score': 0.38099980123344268,
+    'title': 'broker tips: rbs, croda, sage'
+  },
+  {
+    'sentiment score': 0.42697851667349895,
+    'title': "australia clears ab inbev's $100 billion sabmiller buyout plan"
+  },
+  {
+    'sentiment score': 0.14597831763621921,
+    'title': 'tesco sells blinkbox and broadband service to talktalk'
+  },
+  {
+    'sentiment score': -0.30340080798345026,
+    'title': 'bp reports biggest ever annual loss'
+  },
+  {
+    'sentiment score': -0.016661436976586824,
+    'title': 'schroders posts profit growth'
+  },
+  {
+    'sentiment score': -0.16136651701742766,
+    'title': "london stock exchange group appoints royal mail's donald brydon to replace ..."
+  },
+  {
+    'sentiment score': -0.16985988446775446,
+    'title': 'industry newsold mutual appoints former sa finance minister as non-exec director'
+  },
+  {
+    'sentiment score': 0.037918687378943286,
+    'title': 'royal mail share price rallies amid positive broker comments'
+  },
+  {
+    'sentiment score': 0.23503555858505287,
+    'title': 'berkshire applies to boost wells fargo stake above 10 percent'
+  },
+  {
+    'sentiment score': -0.011048274486299688,
+    'title': "glasgow easyjet flight forced to divert because of rowdy passengers' antics"
+  },
+  {
+    'sentiment score': -0.01300025580330744,
+    'title': 'barclays libor verdicts provide much-needed victory for sfo'
+  },
+  {
+    'sentiment score': 0.20701128646610018,
+    'title': "astrazeneca's lung cancer drug tagrisso gets fda approval"
+  },
+  {
+    'sentiment score': 0.16414932257106885,
+    'title': 'barclays sells benchmark indices unit to bloomberg'
+  },
+  {
+    'sentiment score': 0.56663788725444364,
+    'title': 'tesco sells south korean arm to private equity group for $6.1 billion'
+  },
+  {
+    'sentiment score': 0.054490548397266247,
+    'title': 'bae systems lines up oil executive woodburn as next ceo - source'
+  },
+  {
+    'sentiment score': -0.20247868877817368,
+    'title': 'l&g strikes â£230m bulk annuity deal'
+  },
+  {
+    'sentiment score': -0.44104204620421644,
+    'title': 'drilling begins 3 miles from epicenter of bp oil spill'
+  },
+  {
+    'sentiment score': -0.023982661718395356,
+    'title': 'barclays drags ftse into red as compensation mounts'
+  },
+  {
+    'sentiment score': 0.13601119297408232,
+    'title': "merged lse and deutsche bã¶rse would be led by germany's kengeter"
+  },
+  {
+    'sentiment score': 0.052365551320736253,
+    'title': 'u.s. oil-worker strike reaches bp plants with talks on hold'
+  },
+  {
+    'sentiment score': -0.35853968402607173,
+    'title': 'lloyds banking group reports 7% dip in annual profits'
+  },
+  {
+    'sentiment score': -0.51801002225269299,
+    'title': 'british american tobacco drops and sues pwc over pollution scandal'
+  },
+  {
+    'sentiment score': 0.054537010782446202,
+    'title': 'tesco picks buyout firm mbk as preferred bidder for south korea unit - sources'
+  },
+  {
+    'sentiment score': 0.18596035138565536,
+    'title': 'ab inbev ups offer for sabmiller as deadline looms'
+  },
+  {
+    'sentiment score': -0.11567694734170704,
+    'title': 'shire share price: investors stage rebellion over executive pay'
+  },
+  {
+    'sentiment score': 0.14692520816712801,
+    'title': 'why astrazeneca plc & dixons carphone plc are red-hot growth stars!'
+  },
+  {
+    'sentiment score': -0.14063669681681043,
+    'title': "speed of shell's swoop for bg unusual"
+  },
+  {
+    'sentiment score': -0.16572780505572182,
+    'title': 'rbs shares drop after surprise pension charge cuts capital'
+  },
+  {
+    'sentiment score': 0.11603731746785233,
+    'title': 'easyjet in talks with eu governments about moving its headquarters out of the uk'
+  },
+  {
+    'sentiment score': 0.29561934090938619,
+    'title': 'industry newsstandard life enjoys strong inflows to lift assets under management'
+  },
+  {
+    'sentiment score': 0.30452440866388109,
+    'title': 'update: persimmon profit up strongly, outlook positive'
+  },
+  {
+    'sentiment score': 0.17497258715003911,
+    'title': 'standard life and old mutual join cii push to professionalism'
+  },
+  {
+    'sentiment score': 0.2980758457928519,
+    'title': 'shire says internal synergy goals from baxalta deal higher'
+  },
+  {
+    'sentiment score': 0.1366223255174184,
+    'title': 'tesco share price tumbles after negative broker note'
+  },
+  {
+    'sentiment score': 0.12802594862806768,
+    'title': 'mbk partners closes in on $6bn tesco korea deal'
+  },
+  {
+    'sentiment score': -0.046946835875600168,
+    'title': 'lloyds share price: lender set to escape steep profit fall'
+  },
+  {
+    'sentiment score': 0.49109957599348192,
+    'title': 'update 1-bp signs $12 billion energy deal in egypt'
+  },
+  {
+    'sentiment score': -0.032858474800780829,
+    'title': 'glaxo gets ok to expand marketing of inhaler drug'
+  },
+  {
+    'sentiment score': -0.39976799231762733,
+    'title': 'update: british american tobacco 2014 profit drops, difficult 2015 ahead'
+  },
+  {
+    'sentiment score': 0.083450579477632736,
+    'title': 'companiesmeggitt profits hit by weak energy and military markets'
+  },
+  {
+    'sentiment score': -0.0080212188740967673,
+    'title': 'astrazeneca, juno latest to collaborate on immuno-oncology drugs'
+  },
+  {
+    'sentiment score': 0.18781466612886838,
+    'title': 'tesco share price steady as analysts weigh in on results'
+  },
+  {
+    'sentiment score': -0.15659204859608222,
+    'title': 'barclays to pay ousted boss â£500000 bonus'
+  },
+  {
+    'sentiment score': 0.18019649072401581,
+    'title': 'update 1-valeant asks ceo pearson to cooperate with us senate committee'
+  },
+  {
+    'sentiment score': -0.11254301007946473,
+    'title': 'industry newsmorrisons unveils which stores will close as 900 jobs face the axe'
+  },
+  {
+    'sentiment score': 0.028618487247966378,
+    'title': 'schroders assets hit record in q1, buoyed by institutional inflows'
+  },
+  {
+    'sentiment score': -0.11325892308151984,
+    'title': "profits drop six per cent at lloyds banking group, beating analysts' expectations"
+  },
+  {
+    'sentiment score': -0.28504482227947003,
+    'title': 'companiestullow oil will cut expenditure further in 2016'
+  },
+  {
+    'sentiment score': -0.11114075564682839,
+    'title': 'glencore increases debt reduction and cuts spending'
+  },
+  {
+    'sentiment score': -0.06933273716336065,
+    'title': 'chime communications set to be acquired by wpp and providence'
+  },
+  {
+    'sentiment score': 0.30180467748405843,
+    'title': 'g4s sees profits rise but uk contract problems remain'
+  },
+  {
+    'sentiment score': 0.11619470865794319,
+    'title': "britain's ftse recovers two-month low after diageo shares rally on bid report"
+  },
+  {
+    'sentiment score': 0.2142613578108768,
+    'title': 'metals-london copper climbs as shorts cover on glencore cutbacks'
+  },
+  {
+    'sentiment score': 0.015479535020508969,
+    'title': 'companiesastrazeneca shares hit as 2016 revenue forecast to fall'
+  },
+  {
+    'sentiment score': 0.35598934772287943,
+    'title': 'crown castle buys tower development corp for $461 million'
+  },
+  {
+    'sentiment score': -0.047649501454036791,
+    'title': 'brief-persimmon says too soon to judge effect of brexit'
+  },
+  {
+    'sentiment score': -0.14731088630108505,
+    'title': 'profit slumps at troubled uk grocer morrisons'
+  },
+  {
+    'sentiment score': -0.49799089205222252,
+    'title': 'u.k. stocks little changed near record as barclays, shell fall'
+  },
+  {
+    'sentiment score': -0.040961304315226738,
+    'title': 'ftse led lower by m&s, glaxosmithkline'
+  },
+  {
+    'sentiment score': 0.16971340803872639,
+    'title': 'petrofac share price rises despite â£30m costs on north sea project'
+  },
+  {
+    'sentiment score': 0.42004192251726497,
+    'title': 'pearson in talks to sell its stake in the economist group'
+  },
+  {
+    'sentiment score': 0.19571859024220029,
+    'title': 'investor body in talks with glencore on $2.5 bln placing - sky news'
+  },
+  {
+    'sentiment score': 0.22849525977840512,
+    'title': "japan's asahi to submit bid next week for sabmiller's grolsch and peroni - yomiuri"
+  },
+  {
+    'sentiment score': -0.13952617473289686,
+    'title': 'understated approach of jenkins failed to win barclays board over'
+  },
+  {
+    'sentiment score': 0.27082309147916311,
+    'title': 'update 1-astrazeneca boosts respiratory unit with $575 mln takeda deal'
+  },
+  {
+    'sentiment score': 0.24164451274585497,
+    'title': 'astrazeneca agrees licensing deal for plendil in china'
+  },
+  {
+    'sentiment score': 0.00051686773629807878,
+    'title': 'tesco set to sell kipa, giraffe businesses - sky news'
+  },
+  {
+    'sentiment score': -0.46906551346479991,
+    'title': 'foreign exchange probes push rbs to â£446m loss'
+  },
+  {
+    'sentiment score': 0.37126078976338556,
+    'title': 'whitbread share price climbs on q4 sales growth'
+  },
+  {
+    'sentiment score': 0.33500884071818082,
+    'title': 'companiesactelion shares hit record on shire takeover talk'
+  },
+  {
+    'sentiment score': -0.17460960333767311,
+    'title': 'uk stocks little changed as ashtead gains, housing shares drop'
+  },
+  {
+    'sentiment score': 0.32219526284341621,
+    'title': 'standard chartered, rbs escape capital raising in stress test'
+  },
+  {
+    'sentiment score': -0.01006865717290719,
+    'title': 'commentopening quote: tesco; premier foods jilted; fca on ipos'
+  },
+  {
+    'sentiment score': 0.056077710327627137,
+    'title': 'barclays share price: investment bank to shrink further despite ceo exit'
+  },
+  {
+    'sentiment score': -0.030836933064800457,
+    'title': 'exclusive: barclays reins in foreign exchange trading before referendum result - sources'
+  },
+  {
+    'sentiment score': -0.41682193078106816,
+    'title': 'copper falls with mining stocks as barclays warns of pullback'
+  },
+  {
+    'sentiment score': 0.072348700695469698,
+    'title': 'lpc-glencore launches refinancing of us$8.45bn loan'
+  },
+  {
+    'sentiment score': 0.25399875918944725,
+    'title': 'gsk and novartis complete deals to reshape both drugmakers'
+  },
+  {
+    'sentiment score': 0.056000254784719122,
+    'title': 'sanofi poaches astrazeneca scientist as new research head'
+  }
+]
